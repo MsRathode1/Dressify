@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router'
 import { useToast } from '@chakra-ui/react'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
-import { GetLoginData } from '../Redux/action'
+import { GetLoginData, loginuserrdx } from '../Redux/action'
 
 
 const Login = () => {
@@ -49,6 +49,8 @@ const Login = () => {
           position: "top",
           isClosable: true,
         })
+        dispatch(loginuserrdx(s))
+        console.log("s: ", s);
       } else {
         toast({
           title: 'Email or Password Wrong',

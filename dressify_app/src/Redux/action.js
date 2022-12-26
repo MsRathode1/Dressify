@@ -48,6 +48,19 @@ const logindata = (payload) => {
     }
 }
 
+export const loginuserrdx = (payload) => {
+  return {
+    type:"LOGIN_USER_SAVE",
+    payload
+  }
+}
+
+export const addtocart = (payload) => {
+  return {
+    type:"ADD_TO_CART",
+    payload
+  }
+}
 
 export const Get_Data_women = (dispatch) => {
     dispatch(Data_request)

@@ -1,15 +1,16 @@
 import { Box, Image, Icon, Badge, StarIcon, Button } from "@chakra-ui/react"
 import { useContext } from "react"
 import { FaEuroSign, FaShoppingCart } from "react-icons/fa"
+import { useDispatch } from "react-redux"
 import { useNavigate } from "react-router"
-// import { CartContext } from "../Context/Cart/CartContext"
-// import { addtocart } from "../Context/Cart/Action"
+import { useCart } from "react-use-cart"
+import { addtocart } from "../Redux/action"
 
-function ProductCard({ pro, id, url, productname, productprice, avl, productdetails }) {
 
-  // let { state, dispatch } = useContext(CartContext)
-  // console.log(dispatch);
+function ProductCard({ pro, id, url, productname, price, avl, productdetails }) {
   let navigate = useNavigate()
+  const { addItem } = useCart()
+  const dispatch = useDispatch()
   return (
     <Box maxW='sm' borderWidth='1px' borderRadius='lg' overflow='hidden'>
       <Image src={url} />
@@ -43,16 +44,14 @@ function ProductCard({ pro, id, url, productname, productprice, avl, productdeta
         </Box>
 
         <Box fon>
-          <Icon pt={1} as={FaEuroSign}></Icon>{productprice}
+          <Icon pt={1} as={FaEuroSign}></Icon>{price}
         </Box>
 
         <Box display='flex' mt='2' alignItems='center'>
 
           <Box as='span' ml='0' color='gray.600' fontSize='sm'>
             <Button onClick={() => {
-              // dispatch(addtocart(pro))
-              //  return(navigate("Cart")
-              // )
+              dispatch(addtocart(pro))
             }} bg="black" _hover={{ color: "white", bg: "gray" }} color="White"><Icon mr={2} as={FaShoppingCart}></Icon>Add To Cart</Button>
           </Box>
         </Box>

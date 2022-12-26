@@ -4,12 +4,13 @@ import { Link } from 'react-router-dom'
 import { CloseIcon, HamburgerIcon } from "@chakra-ui/icons"
 import AnchorLink from "react-anchor-link-smooth-scroll"
 
-
-// import logo from "../Images/Dressify_1.png"
 import { FaSearch, FaShoppingBag } from "react-icons/fa"
+import { useSelector } from 'react-redux'
 
 const TopNavbar = () => {
     const [display, changedisplay] = useState("none")
+    const store = useSelector((store=>store.loginuser))
+    console.log(store);
     return (
         <>
             <Box display={["none", "none", "block"]} bg="white" width={["80%", "", "80%"]} margin="auto" border="0px solid black">
@@ -52,7 +53,7 @@ const TopNavbar = () => {
                 </Flex>
                 <Flex border="0px solid black" height="auto" width="full" margin="auto" >
                     <Image border="0px solid black" w={300} m="auto" mt={-20} src={process.env.PUBLIC_URL + "/Dressify_1.png"} />
-                    <FormLabel mt={2}>Shopping Bag</FormLabel>
+                    <FormLabel mt={2}><Link to="/cart"><Text>Shopping Bag</Text></Link></FormLabel>
                     <IconButton colorScheme='BlackAlpha 300' icon={<FaShoppingBag color='black' />} />
                 </Flex>
                 <Flex mt={-55} justify="space-between" border="0px solid black">

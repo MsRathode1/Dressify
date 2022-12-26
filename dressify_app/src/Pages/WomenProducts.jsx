@@ -17,7 +17,7 @@ const WomenProducts = () => {
     <>
     <Grid w="80%" m="auto" mt={10} templateColumns='repeat(3, 1fr)' gap={5}>
     {store.map((el)=>{
-        return <GridItem><ProductCard pro={el} id={el.id} url={el.url} productname={el.product_name} productprice={el.product_price} avl={el.availablity} productdetails={el.product_details}/></GridItem>
+        return <GridItem><ProductCard pro={el} id={el.id} url={el.url} productname={el.product_name} price={el.price} avl={el.availablity} productdetails={el.product_details}/></GridItem>
       })}
       
     </Grid>

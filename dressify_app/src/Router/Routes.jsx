@@ -12,18 +12,16 @@ import Login from "../Components/Login"
 
 const Rout = () => {
   return <><Routes>
-    <Route path="/" element={<Women/>}></Route>
-    <Route path="/men" element={<Men/>}></Route>
-    <Route path="/kids" element={<Kids/>}></Route>
-    <Route path="/life" element={<Life/>}></Route>
-    <Route path="/admin" element={<Admin/>}></Route>
-    <Route path="/WomenProducts" element={<WomenProducts/>}></Route>
-    <Route path="men/MenProducts" element={<MenProducts/>}></Route>
-    <Route path="/signup" element={<SignUp/>}></Route>
-    <Route path="/login" element={<Login/>}></Route>
-    {/* <Route path="MenProducts/Cart" element={<Cart/>}></Route> */}
-    {/* <Route path="WomenProducts/Cart" element={<Cart/>}></Route> */}
-
+    <Route path="/" element={<Women />}></Route>
+    <Route path="/men" element={<Men />}></Route>
+    <Route path="/kids" element={<Kids />}></Route>
+    <Route path="/life" element={<Life />}></Route>
+    <Route path="/admin" element={<Admin />}></Route>
+    <Route path="/WomenProducts" element={<WomenProducts />}></Route>
+    <Route path="men/MenProducts" element={<MenProducts />}></Route>
+    <Route path="/signup" element={<SignUp />}></Route>
+    <Route path="/login" element={<Login />}></Route>
+    <Route path="/cart" element={<Cart />}></Route>
   </Routes></>
 }
 

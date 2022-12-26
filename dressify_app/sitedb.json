@@ -3,192 +3,215 @@
     {
       "product_name": "LOEWE",
       "product_details": "Intarsia wool-blend sweater",
-      "product_price": "745",
+      "price": "745",
       "availablity": false,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/95/P00754538_b1.jpg",
-      "id": 1
+      "id": 1,
+      "quantity":1
     },
     {
       "product_name": "SAINT LAURENT",
       "product_details": "RIbbed-knit cashmere scarf",
-      "product_price": "755",
+      "price": "755",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c8/P00737809_b1.jpg",
-      "id": 2
+      "id": 2,
+      "quantity":1
     },
     {
       "product_name": "SAINT LAURENT",
       "product_details": "Le 5 à 7 Small leather shoulder bag",
-      "product_price": "1505",
+      "price": "1505",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a1/P00737154_b1.jpg ",
-      "id": 3
+      "id": 3,
+      "quantity":1
     },
     {
       "product_name": "ZIMMERMANN",
       "product_details": "Tiggy printed cutout silk maxi dress",
-      "product_price": "969",
+      "price": "969",
       "availablity": false,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00753325_b1.jpg",
-      "id": 4
+      "id": 4,
+      "quantity":1
     },
     {
-      "product_name": "",
+      "product_name": "ZIMMERMANN",
       "product_details": "Rose-heeled leather slingback pumps",
-      "product_price": "1179",
+      "price": "1179",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1d/P00754598_d2.jpg",
-      "id": 5
+      "id": 5,
+      "quantity":1
     },
     {
       "product_name": "ISABEL MARANT",
       "product_details": "Lindley ribbed-knit cotton-blend jacket",
-      "product_price": "1005",
+      "price": "1005",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00720209_b1.jpg",
-      "id": 6
+      "id": 6,
+      "quantity":1
     },
     {
       "product_name": "LOEWE",
       "product_details": "Puzzle leather shoulder bag",
-      "product_price": "2355",
+      "price": "2355",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00755387_b1.jpg",
-      "id": 7
+      "id": 7,
+      "quantity":1
     },
     {
       "product_name": "GANNI",
       "product_details": "Knee-high leather boots",
-      "product_price": "445",
+      "price": "445",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/da/P00729850_d2.jpg",
-      "id": 8
+      "id": 8,
+      "quantity":1
     },
     {
       "product_name": "FRANKIE SHOP",
       "product_details": "Hailey wool and nylon cargo pants",
-      "product_price": "245",
+      "price": "245",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c8/P00750484_b1.jpg",
-      "id": 9
+      "id": 9,
+      "quantity":1
     },
     {
       "product_name": "LOEWE",
       "product_details": "Wool and cashmere trench coat",
-      "product_price": "2185",
+      "price": "2185",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5e/P00754404_b1.jpg",
-      "id": 10
+      "id": 10,
+      "quantity":1
     }
   ],
   "KidsProducts": [
     {
       "product_name": "BALMAIN KIDS",
-      "product_details": "Virgin wool blazer",
-      "product_price": "599",
+      "product_details": "Virgin wool blazeprice",
+      "price": "599",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00688802.jpg",
-      "id": 1
+      "id": 1,
+      "quantity":1
     }
   ],
   "MensProducts": [
     {
       "product_name": "MARNI",
       "product_details": "Intarsia mohair-blend cardigan",
-      "product_price": "1029",
+      "price": "1029",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00706119_b1.jpg",
-      "id": 1
+      "id": 1,
+      "quantity":1
     },
     {
       "product_name": "JIL SANDER",
       "product_details": "Logo jersey T-shirt",
-      "product_price": "295",
+      "price": "295",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7d/P00683252.jpg",
-      "id": 2
+      "id": 2,
+      "quantity":1
     },
     {
       "product_name": "CHRISTIAN LOUBOUTIN",
       "product_details": "Happy Rui CL logo leather belt",
-      "product_price": "379",
+      "price": "379",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00734042_b1.jpg",
-      "id": 3
+      "id": 3,
+      "quantity":1
     },
     {
       "product_name": "MAISON MARGIELA",
       "product_details": "Silk poplin pants",
-      "product_price": "715",
+      "price": "715",
       "availablity": false,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e6/P00690630_b1.jpg",
-      "id": 4
+      "id": 4,
+      "quantity":1
     },
     {
       "product_name": "UNDERCOVER",
       "product_details": "Alpaca and wool sweater",
-      "product_price": "529",
+      "price": "529",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/21/P00702454_b1.jpg",
-      "id": 5
+      "id": 5,
+      "quantity":1
     },
     {
       "product_name": "THE ELDER STATESMAN",
       "product_details": "Parker striped cashmere beanie",
-      "product_price": "455",
+      "price": "455",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/19/P00757532_b1.jpg",
-      "id": 6
+      "id": 6,
+      "quantity":1
     },
     {
       "product_name": "THE ELDER STATESMAN",
       "product_details": "Waffle-knit cashmere pants",
-      "product_price": "1559",
+      "price": "1559",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/59/P00757495_b1.jpg",
-      "id": 7
+      "id": 7,
+      "quantity":1
     },
     {
       "product_name": "BURBERRY",
       "product_details": "Checked canvas and suede sneakers",
-      "product_price": "499",
+      "price": "499",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00739355_d2.jpg",
-      "id": 8
+      "id": 8,
+      "quantity":1
     },
     {
       "product_name": "ELHANATI",
       "product_details": "Sun Small 18kt gold necklace",
-      "product_price": "1355",
+      "price": "1355",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00745258_d2.jpg",
-      "id": 9
+      "id": 9,
+      "quantity":1
     },
     {
       "product_name": "NANUSHKA",
       "product_details": "Loris quilted cotton jacket",
-      "product_price": "615",
+      "price": "615",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/31/P00690690_b1.jpg",
-      "id": 10
+      "id": 10,
+      "quantity":1
     }
   ],
   "LifeProducts": [
     {
       "product_name": "GUCCI",
       "product_details": "Set of 2 Herbarium dessert plates",
-      "product_price": "169",
+      "price": "169",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00754889_d2.jpg",
-      "id": 1
+      "id": 1,
+      "quantity":1
     },
     {
       "product_name": "GUCCI",
       "product_details": "Herbarium porcelain cake stand",
-      "product_price": "405",
+      "price": "405",
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00743667.jpg",
-      "id": 2
+      "id": 2,
+      "quantity":1
     }
   ],
   "users": [
@@ -197,14 +220,32 @@
       "email": "umon1787@gmail.com",
       "phone": "eve.holt@reqres.in",
       "password": "cityslicka",
-      "id": 1
+      "id": 1,
+      "quantity":1
     },
     {
       "name": "Ravi Rathore",
       "email": "umon1787@gmail.com",
       "phone": "07999013100",
       "password": "1234",
-      "id": 2
+      "id": 2,
+      "quantity":1
+    },
+    {
+      "name": "monu",
+      "email": "mounu@gmail.com",
+      "phone": "07999013100",
+      "password": "1230",
+      "id": 3,
+      "quantity":1
+    },
+    {
+      "name": "sonu",
+      "email": "m@gamil.com",
+      "phone": "7725833490",
+      "password": "1236",
+      "id": 4,
+      "quantity":1
     }
   ],
   "cart": []
