@@ -7,7 +7,7 @@
       "availablity": false,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/95/P00754538_b1.jpg",
       "id": 1,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "SAINT LAURENT",
@@ -16,7 +16,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c8/P00737809_b1.jpg",
       "id": 2,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "SAINT LAURENT",
@@ -25,7 +25,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a1/P00737154_b1.jpg ",
       "id": 3,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "ZIMMERMANN",
@@ -34,7 +34,7 @@
       "availablity": false,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00753325_b1.jpg",
       "id": 4,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "ZIMMERMANN",
@@ -43,7 +43,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1d/P00754598_d2.jpg",
       "id": 5,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "ISABEL MARANT",
@@ -52,7 +52,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00720209_b1.jpg",
       "id": 6,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "LOEWE",
@@ -61,7 +61,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00755387_b1.jpg",
       "id": 7,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "GANNI",
@@ -70,7 +70,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/da/P00729850_d2.jpg",
       "id": 8,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "FRANKIE SHOP",
@@ -79,7 +79,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c8/P00750484_b1.jpg",
       "id": 9,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "LOEWE",
@@ -88,7 +88,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5e/P00754404_b1.jpg",
       "id": 10,
-      "quantity":1
+      "quantity": 1
     }
   ],
   "KidsProducts": [
@@ -99,7 +99,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00688802.jpg",
       "id": 1,
-      "quantity":1
+      "quantity": 1
     }
   ],
   "MensProducts": [
@@ -110,7 +110,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00706119_b1.jpg",
       "id": 1,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "JIL SANDER",
@@ -119,7 +119,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7d/P00683252.jpg",
       "id": 2,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "CHRISTIAN LOUBOUTIN",
@@ -128,7 +128,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00734042_b1.jpg",
       "id": 3,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "MAISON MARGIELA",
@@ -137,7 +137,7 @@
       "availablity": false,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e6/P00690630_b1.jpg",
       "id": 4,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "UNDERCOVER",
@@ -146,7 +146,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/21/P00702454_b1.jpg",
       "id": 5,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "THE ELDER STATESMAN",
@@ -155,7 +155,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/19/P00757532_b1.jpg",
       "id": 6,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "THE ELDER STATESMAN",
@@ -164,7 +164,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/59/P00757495_b1.jpg",
       "id": 7,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "BURBERRY",
@@ -173,7 +173,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00739355_d2.jpg",
       "id": 8,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "ELHANATI",
@@ -182,7 +182,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00745258_d2.jpg",
       "id": 9,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "NANUSHKA",
@@ -191,7 +191,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/31/P00690690_b1.jpg",
       "id": 10,
-      "quantity":1
+      "quantity": 1
     }
   ],
   "LifeProducts": [
@@ -202,7 +202,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00754889_d2.jpg",
       "id": 1,
-      "quantity":1
+      "quantity": 1
     },
     {
       "product_name": "GUCCI",
@@ -211,7 +211,7 @@
       "availablity": true,
       "url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00743667.jpg",
       "id": 2,
-      "quantity":1
+      "quantity": 1
     }
   ],
   "users": [
@@ -221,7 +221,7 @@
       "phone": "eve.holt@reqres.in",
       "password": "cityslicka",
       "id": 1,
-      "quantity":1
+      "quantity": 1
     },
     {
       "name": "Ravi Rathore",
@@ -229,7 +229,7 @@
       "phone": "07999013100",
       "password": "1234",
       "id": 2,
-      "quantity":1
+      "quantity": 1
     },
     {
       "name": "monu",
@@ -237,7 +237,7 @@
       "phone": "07999013100",
       "password": "1230",
       "id": 3,
-      "quantity":1
+      "quantity": 1
     },
     {
       "name": "sonu",
@@ -245,7 +245,14 @@
       "phone": "7725833490",
       "password": "1236",
       "id": 4,
-      "quantity":1
+      "quantity": 1
+    },
+    {
+      "name": "Ravi Rathore",
+      "email": "umon1787@gmail.com",
+      "phone": "07999013100",
+      "password": "1234",
+      "id": 5
     }
   ],
   "cart": []
